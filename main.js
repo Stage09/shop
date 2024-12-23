@@ -1,4 +1,3 @@
-// //  Kanal linki =   https://t.me/+gc9Yi8Zjfww3MzUy
 
 let elProductsList = document.querySelector(".products-list")
 
